@@ -1,0 +1,1 @@
+C:\Users\bhanus> Get-Content .\Downloads\URL_subscribe.txt | Select-String -Pattern "bashbound.com"

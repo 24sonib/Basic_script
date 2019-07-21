@@ -1,0 +1,344 @@
+
+cat ACTION_20170502_US ACTION_CLICKER_20170502_US ACTION_IMPS_20170502_US  CLICKER_20170430_US IMPS_20170430_US  opmus01_Action_data_ver_20170501_US   opmus01_clicker_data_ver_20170501_US  opmus01_duns_data_ver_20170501_US  opmus01_imps_data_ver_20170501_US opmus01_optout_data_ver_20170501_US opmus01_unsub_data_ver_20170501_US UNS_20170501_US  DUNS_20170501_US OPTOUT_20170501_US > allverizon
+
+awk -F "|" '$16>="2017-03-01" && $16<="2018-06-31"' nopsg_01_yah_today_B_20180502_US  > 5esdfr
+awk -F "|" '$18>="2017-03-01" && $18<="2018-06-31"' nopsg_01_yah_today_B_20180502_US  > 5esdfr
+awk -F "|" '$17>="2017-03-01" && $17<="2018-06-31"' nopsg_01_yah_today_B_20180502_US  > 5esdfr
+
+cat KBCCA11 KBCCA22 KBCCA33 > KBCCA
+
+sort -t '|' -u -k 2,2 hgdgfdhgd > jghjghjgh
+sort -t '|' -r -k 12,12 swap03  > swapcinixx
+sort -t '|' -r -k 16,16 ALL_DATA_20180828_US  > gdfgfdgfdg
+
+cat swap21 |grep -v '|*|[0-3]|'  > auntheR                  swap0_3   swap024  swap078  aunthe
+                                                                                         
+head -100000 asdgdgah > asgasfgsdh                 
+
+cat 5esdfr |grep -v '|*|[0-3]|'  > swap0_3
+
+grep ref_01 5esdfr >swap022
+grep ref_02 5esdfr >swap023
+
+cat swap022 swap023 >swap024
+
+grep opsg_01 swap1 >swap05
+grep opsg_02 swap1 >swap06
+
+cat *20170616* > swapOpsG
+sort -t '|' -u -k 2,2 swapOpsG > swap010
+
+grep opsg swap010 >swap076
+
+grep opsg_01 swap010 >swap074
+grep opsg_02 swap010 >swap075
+
+grep '@yahoo.com.cn|' PASSIVE_teamG_yah_20171023_US > vgsgdasxd
+
+cat  swap0_3 swap076 > swapver
+
+cat swap010 |grep -v '|*|[0-3]|'  > aunthe
+
+cat swap074 swap075>swap078
+
+split -100000 rahketo nitketo
+split -2000 2rtyu kagdfw
+
+awk -F "|" '$16>="2016-06-01" && $16<="2017-05-31"' nopsg_01_yah_today_B_20180502_US  > 5se
+awk -F "|" '$18>="2016-06-01" && $18<="2017-05-31"' nopsg_01_yah_today_B_20180502_US  >> 5se
+awk -F "|" '$17>="2017-05-01" && $17<="2017-05-31"' nopsg_01_yah_today_B_20180502_US  >> 5se
+
+cat ACTION_20170617_US ACTION_CLICKER_20170617_US ACTION_IMPS_20170617_US CLICKER_20170616_US IMPS_20170616_US OPTOUT_20170616_US UNS_20170616_US DUNS_20170616_US opmus01_unsub_data_ver_20170617_US opmus01_optout_data_ver_20170617_US opmus01_imps_data_ver_20170617_US opmus01_duns_data_ver_20170617_US opmus01_clicker_data_ver_20170617_US opmus01_Action_data_ver_20170617_US > allverw
+
+sort -t '|' -u -k 2,2 swapbt > swapBT
+
+awk -F "|" '{ if($12 >= 30) print $0}' todayallmixandcbd | sort -t '|' -u -k 2,2  > 4r5t4e
+
+cat *201705*US
+
+cat *201705*US | sort -t '|' -u -k 2,2 > 4rfsd2
+
+awk -F "|" '$16>="2018-02-01" && $16<="2018-04-30"' nopsg_01_ver_ALL_20180428_US  > dfdgdfg
+awk -F "|" '$16>="2017-05-01" && $16<="2017-05-31"' swapBT  >> swapBBT
+awk -F "|" '$18>="2017-02-01" && $18<="2017-05-31"' swapBT  >> swapBBT
+
+sort -t '|' -u -k 2,2  nitinfrontier > nitinkumar
+
+php details.php 4de21 2
+
+sort -t '|' -u -k 2,2 swaoufs > yahooDta
+
+cat P_pat0002_US_20170816_US P_
+
+plr0001_US_20170816_US P_tdg0001_US_20170816_US P_sd00001_US_20170816_US P_rob0001_US_20170816_US P_amo0001_US_20170816_US P_brm0001_US_20170816_US > mixxxxxi
+
+cat ACT*US CLIC*US IMP*US UNS*US *OPT*US 6yh4rf |  sort -t '|' -u -k 2,2 > 4rf3ws 
+
+cat ACT*US CLIC*US *IMP*US | sort -t '|' -u -k 2,2 > terter
+
+cat opsg*US nref*US | sort -t '|' -u -k 2,2 > dgss3222
+
+cat *ACT*US
+
+wc -l *clicker_teamG*US
+sort -t '|' -r -k 17,17 hdtopdtu > hdtopdt17
+sort -t '|' -r -k 16,16 hdtopdt17 > hdtopdt16
+sort -t '|' -r -k 18,18 hdtopdt16 > hdtopdt18
+
+juno data:=========================================================================
+
+bash-4.2$ ls *20171128*US
+
+Server: 209.170.73.99
+Username: teamG
+Password: [x=j3K(S4}S2Qs@
+
+delete data:::::::::::
+cp f1 f2 >
+vi f2 >
+10000dd:x >
+
+===================================================================================
+convert from aim to aol::::::
+\:%s/@aim.com/@aol.com/g
+
+resume queue domain[/vmta]
+pause queue domain[/vmta]
+
+aol:: best data
+/home/teamG/DataB/aol
+bash-4.1$ wc *BEST*  
+
+Action data for spam by sandeep sir:::::
+/home/teamG/aol
+bash-4.1$ wc *aol*US
+
+wc *clk*US
+wc -l *aol*US
+
+
+sh datateamg.sh          script by sandip Sir
+
+sh Refresh.sh 
+sh .clean.sh RussiaWomenOnli_clickerC_teamD_aol_20171211_US
+sh .clean.sh dfvsdfsdf    to mearge common data
+
+ sh sortfile.sh fgdfd  .......to sort
+
+cat /home/teamG/DataB/aol/Globe_Life_AIG_clickerC_teamG_aol_20171205_US  /home/teamG/aol/Globe_Life_AIG_clicker_teamG_aol_20171205_US > dfvsdfsdf
+
+TOday's Fresh data::
+
+bash-4.1$ /home/teamG/DataB/aol
+bash-4.1$ wc -l *today*US
+   21427 cali_opsg01_aol_today_B_20180102_US
+   20938 cali_opsg01_aol_today_B_20180103_US
+   60827 nopsg_01_aol_today_B_20180102_US
+   59943 nopsg_01_aol_today_B_20180103_US
+    9961 opsg_03_aol_today_B_20180101_US
+    9603 opsg_03_aol_today_B_20180102_US
+    9532 opsg_03_aol_today_B_20180103_US
+  192231 total
+
+bash-4.1$ cat *today*US > Today04
+
+bash-4.1$ wc Today04
+  192231   195195 21768460 Today04
+
+bash-4.1$ sh sortfile.sh Today04
+Enter name for new file
+Today04
+New file Created Successfully
+127631   129672 14542929 04JanToday04
+
+******************************************************************************************************************************************************************************************
+Anant Sir:::::
+
+cat ACT*20180901*US CLIC*US UNS*US DUNS*US OPTOU*US A_*US C_*US U_*US O_*US D_*US > oeudk
+
+awk -F "|" '$18 >= "2018-01-20" && $18 <= "2018-12-31"' oeudk   >    weoih
+awk -F "|" '$16 >= "2018-01-20" && $16 <= "2018-12-31"' oeudk   >> weoih
+awk -F "|" '$17 >= "2018-02-01" && $17 <= "2018-12-31"' oeudk  >> weoih
+
+sort -t '|' -u -k 2,2 weoih > weoihu
+sort -t '|' -r -k 17,17 oeudk > xcbxc7
+sort -t '|' -r -k 16,16 oeudk > xcbxc6
+sort -t '|' -r -k 18,18 oeudk > xcbxc8
+sort -t '|' -r -k 12,12 oeudk > xcbxc2
+
+head -15000 xcbxc7 > oried
+head -30000 xcbxc6 >> oried
+head -50000 xcbxc8 >> oried
+head -20000 xcbxc2 >> oried
+
+**********************************************************************************************************************************************************************
+
+cat ACT*20180114*US CLIC*US UNS*US DUNS*US OPTOU*US A_*US C_*US U_*US O_*US D_*US > oeudk
+
+awk -F "|" '$18 >= "2017-12-01" && $18 <= "2018-12-31"' oeudk   >    weoih
+awk -F "|" '$16 >= "2017-12-01" && $16 <= "2018-12-31"' oeudk   >> weoih
+awk -F "|" '$17 >= "2018-01-07" && $17 <= "2018-12-31"' oeudk  >> weoih
+
+sort -t '|' -u -k 2,2 weoih > weoihu
+sort -t '|' -r -k 17,17 oeudk > xcbxc7
+sort -t '|' -r -k 16,16 oeudk > xcbxc6
+sort -t '|' -r -k 18,18 oeudk > xcbxc8
+sort -t '|' -r -k 12,12 oeudk > xcbxc2
+
+head -200000 xcbxc7 > oried
+head -300000 xcbxc6 >> oried
+head -100000 xcbxc8 >> oried
+head -200000 xcbxc2 >> oried
+=================================================================================================================================================================================================
+
+1. wc *ACTION* Country_Code:- TO Get Actin Data
+2.wc *CLICKER* Country_Code:- To Get all the data for specific offers
+3.awk -F "|" '("2017-07-01" <= $16 && $16 <= "2017-07-31")' File_Name | sort -t '|' -u -k 2,2 > OutputFile    :- Sort Data Datewise
+To view Offer wised data
+wc -l *clicker*US
+
+wc -l *ONEDAYA*Clicker*US
+
+ll *clicker*US
+
+wc *ONE*US*
+
+OTHERS:  wc *One*US*
+         cat *GB*
+
+cat dfdddf | grep '|2017-10' > sdssdsd10
+
+To View acttion clicker Oneday Opt UNS Imp data
+ 
+cat *ACTION*US | sort -t '|' -u -k 2,2 > actprewerew
+cat CLICKER*US | sort -t '|' -u -k 2,2 > clkpUSag
+cat *ONE*CLI*US | sort -t '|' -u -k 2,2 > OneepUSag
+cat *UNS*US | sort -t '|' -u -k 2,2 > unsppUSagererterter
+cat *OPT*US | sort -t '|' -u -k 2,2 > optppUSag
+cat IMP*US | sort -t '|' -u -k 2,2 > impppUSag
+Cat Above All File
+
+cat 99999999 | sort -t '|' -u -k 2,2 > otheers
+
+grep '|_201710*_US*' jhjhgjhjhg > dsfsfdsfsd
+
+cat jhjhgjhjhg | grep '|2017-08' > sdssdgfdgd
+
+wc *Resolve*US*
+
+wc *Resolve*20171012_US*
+
+To Get Particular period data
+
+cat mixupdtase | awk -F '|' '{if($16>"2017-06-19" && $ 16<"2017-06-19" || $18>"2017-06-19" && $18<"2017-06-19" || $17>"2017-06-19" && $17<"2017-06-19")print $0}' > nationalgdfgdff
+
+ll *Resolve*20170829_US*
+
+
+awk -F '|' '{if(($18>="2017-08-01" && $18<="2018-09-25")|| ($16>="2017-08-01" && $16<="2018-09-25")) print$0}'  fghghfg  | sort -t '|' -u -k 2,2 > fdsfdsfsd
+           
+awk -F '|' '{if(($18>="2017-10-01" && $18<="2017-10-20")|| ($16>="2017-10-01" && $16<="2017-10-20")) print$0}'  *ACTION*US *CLICKER*US *UNS*US *OPT*US  | sort -t '|' -u -k 2,2 > ngagnamukjd
+awk -F '|' '{if(($16>="2017-08-01" && $16<="2017-10-30")|| ($18>="2017-08-01" && $18<="2017-10-30")) print$0}' rtrgdfgdgertgfhg  | sort -t '|' -uk 2,2 > dfsdrewerwerw
+
+===========================================================================================================================================================================================================================
+Swapnil::::::
+
+sort -t '|' -r -k 17,17 fgsdfgd > 5esdfrg7
+sort -t '|' -r -k 16,16 fgsdfgd > 5esdfrg6
+sort -t '|' -r -k 18,18 fgsdfgd >5esdfrg8
+
+head -20000 5esdfrg7 > 5esdfrd1
+head -30000 5esdfrg6 >> 5esdfrd1
+head -40000 5esdfrg8 >> 5esdfrd1
+
+sort -t '|' -u -k 2,2 fgfdgfdg > fghghfg
+
+GLobemedia: &aff_sub=[dep]
+
+MS_ClickboothNew    ::    &s2=[email]
+
+passive data:
+
+ls *P_*US
+awk -F "|" '{ if($15 == NULL ) print $0}' Vgfsdgsdf > fgdgdghjgh
+
+sort -t '|' -u -k 2,2 fgdgdghjgh > sdgdfgf
+
+
+Amol Sir :
+
+cat dailyOLD.sh		
+
+aol all data::::::::::
+wc P_*US*
+wc *P_*US
+
+verizon data::
+/home/teamG/reader/verizon
+
+wc *ver*US
+
+Aol data path:::::::
+
+/home/teamG/aol
+/home/teamG/DataB/aol
+
+Yahoo data path:::::
+
+/home/teamG/yahoo
+/home/teamG/DataB/yahoo
+
+weight loss data:::::
+cat *Diet*US *Weight*US > gfdgfdg
+cat *Beauty*US *Wellness*US > bvnhgfggvngh
+cat *Health*US > dgdfgdf
+cat *Debt*US > dgdfgdf
+
+
+bash-4.2$ wc -l P_*opsg*20181003_US
+   345586 P_cali_opsg01_20180901_US
+   900826 P_nopsg_01_20180901_US
+   293074 P_opsg_01_20180901_US
+   244433 P_opsg_02_20180901_US
+   166194 P_opsg_03_20180901_US
+
+
+yahoo warming data: 
+
+Action data::
+/home/teamG/aol
+/home/teamG/yahoo::
+cat COMMON_*US C_*US A_*US D_*US O_*US U_*US I_*US > hfhfghgf
+/home/teamG/DataB/aol
+/home/teamG/DataB/yahoo::
+cat  C_*US A_*US I_*US > jhgghjgh
+awk -F "|" '{ if($15 ==0 ) print $0}' gfgsgsdggs > gfdgfdg
+awk -F "|" '{ if($15 ==1 ) print $0}'  tgrtdertr > scoreone 
+awk -F "|" '{ if($15 ==2 ) print $0}'  tgrtdertr > scoretwo 
+awk -F "|" '{ if($15 ==3 ) print $0}'  tgrtdertr > scorethree 
+awk -F "|" '{ if($15 ==4 ) print $0}'  tgrtdertr > scorefour 
+
+wc scorezero
+wc scoreone
+wc scoretwo
+wc scorethree
+wc scorefour
+
+Swapnil Sir :
+
+Remove this data from passive list to warm:
+cat ACT*US CLIC*US *UNS*US* DUNS*US *OPTOUT*US* *A_*US* *C_*US* U_*US *O_*US *_D_*US  IMP*US I_*US > fghhfghfhfg
+
+Active data to send:
+cat ACT*US CLIC*US *UNS*US* DUNS*US *OPTOUT*US* *A_*US* *C_*US* U_*US *O_*US *_D_*US   > gfdgfgdg
+
+
+cat ACT*US CLIC*US *UNS*US* DUNS*US *OPTOUT*US* *A_*US*     > sfsdfds
+
+Data for BB: 
+
+wc -l *20180830*US
+sort -t '|' -u -k 2,2 fhfghfg > gdhfghfgh
+
+
+

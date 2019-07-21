@@ -1,0 +1,53 @@
+pwd
+reader
+cd aol
+pwd
+/disk2/reader/aol
+
+vi 21Novinksk25  --edit---
+
+cp 21Novinksk25 new21Novinksk25
+
+vi 21Novinksk25 3500dd
+
+:x
+ for save file
+
+*****************************************************************
+for data file listing
+
+wc -l *aol*US
+
+wc -l *clicker*US
+
+php ran.php filename newfilename
+
+sh .clean.sh filename
+
+sh SortFile.sh Filename  
+
+sort -t '|' -u -k 2,2 agm > agm1             ------unique Sort
+
+sort -t '|' -r -k 12,12 agm1 > agm12           ------clickerwise Sort | most clicked
+
+sort -t '|' -r -k 16,16 Fi1512 > Fi15122    -  -----------click date
+
+split -l 100000  300920185bb0b590342b48.79277654 ddd      ------split command
+wc ddd*
+
+cat A_*20181001_US  > yahooketoo     ------ Active Data
+
+cat ACTION_20170915_US ACTION_CLICKER_20170915_US ACTION_IMPS_20170915_US CLICKER_20170915_US IMPS_20170915_US OPTOUT_20170915_US UNS_20170915_US DUNS_20170915_US > juinndd
+
+
+awk -F "|" '$16 >= "2017-01-01" && $16 <= "2017-09-15"' myjuno1  > sdsdjhjhyyy1
+awk -F "|" '$17 >= "2017-01-01" && $17 <= "2017-09-15"' myjuno1  > sdsdjhjds2
+awk -F "|" '$18 >= "2017-01-01" && $18 <= "2017-09-15"' myjuno1  > 8a6s7d7f3g4
+
+
+*****************************************************************************************************
+
+
+cat COMMON_*US C_*US A_*US D_*US O_*US U_*US I_*US > kkk
+
+awk -F "|" '{ if($15 ==2 ) print $0}' P_wtg0001_20180930_US > ghhhhhbhgogoo     ---------- score 0
